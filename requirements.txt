@@ -1,0 +1,8 @@
+# Core numerical computing
+numpy>=1.24.0
+ 
+# Visualization
+matplotlib>=3.7.0
+ 
+# Scientific computing utilities
+scipy>=1.10.0
