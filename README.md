@@ -319,7 +319,7 @@ waveguide_bend_simulation/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/waveguide_bend_simulation.git
+git clone https://github.com/martins232/waveguide_bend_simulation.git
 cd waveguide_bend_simulation
 pip install -r requirements.txt
 ```
