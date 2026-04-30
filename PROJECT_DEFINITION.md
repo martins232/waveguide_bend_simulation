@@ -115,73 +115,9 @@ Light is confined by total internal reflection when:
 **Chosen Method:** Beam Propagation Method (BPM)
 
 **Why BPM?**
-- ✅ Handles arbitrary geometries (including bends)
-- ✅ Shows field evolution visually
-- ✅ Computationally efficient for 2D
-- ✅ Well-established in photonics community
-- ✅ Implementable in pure Python/NumPy
+- Handles arbitrary geometries (including bends)
+- Shows field evolution visually
+- Computationally efficient for 2D
+- Well-established in photonics community
+- Implementable in pure Python/NumPy
 
-**Alternative Methods (Not Chosen):**
-- ❌ FDTD: More accurate but computationally intensive
-- ❌ Analytical: Only works for simple geometries
-- ❌ Commercial software: Not educational/transparent
-
----
-
-## 📈 Deliverables Checklist
-
-### Code:
-- [ ] BPM simulation engine
-- [ ] Bend geometry generator
-- [ ] Loss calculation module
-- [ ] Visualization functions
-- [ ] Main simulation script
-
-### Results:
-- [ ] Field evolution plots (4 radii)
-- [ ] Power decay curves (4 radii)
-- [ ] Loss vs. radius plot (main result)
-- [ ] Mode profile comparisons
-- [ ] (Optional) Animation of propagation
-
-### Documentation:
-- [ ] Technical report (paper format)
-- [ ] Code comments and docstrings
-- [ ] README with quick start
-- [ ] Theory section
-- [ ] Validation/limitations discussion
-
-### Repository:
-- [ ] Clean code structure
-- [ ] Requirements.txt
-- [ ] Example outputs
-- [ ] Citation-ready format
-
----
-
-## 🚀 Next Steps
-
-**Immediate Next Action:** Step 1 - Set up Python environment and confirm BPM method
-
-**Timeline Estimate:**
-- Environment setup: 15 min
-- Theory implementation: 2-3 hours
-- Testing and debugging: 1-2 hours
-- Results generation: 1 hour
-- Report writing: 2-3 hours
-- **Total:** ~6-10 hours of focused work
-
----
-
-## 💡 Innovation Opportunities
-
-While following the core plan, consider:
-- Testing additional parameters (wavelength, index contrast)
-- Comparing different waveguide geometries
-- 3D visualization if time permits
-- Connection to real fabrication constraints
-
----
-
-**Status:** ✅ Step 0 Complete  
-**Ready for:** Step 1 - Environment Setup and Method Confirmation
