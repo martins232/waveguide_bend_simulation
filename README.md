@@ -431,7 +431,7 @@ If you use this work in your research, please cite:
 ```
 Numerical Simulation and Optimization of Optical Waveguide Bend Loss (2026)
 A numerical investigation of bend-induced radiation loss using the Beam Propagation Method
-GitHub: [repository-url]
+GitHub: https://github.com/martins232/waveguide_bend_simulation.git
 ```
 
 ---
@@ -440,19 +440,5 @@ GitHub: [repository-url]
 
 MIT License - Free for educational and research use. See LICENSE file for details.
 
----
 
-## Contact
-
-For research collaboration or technical questions regarding this work:  
-[Your contact information]
-
----
-
-**Project Status:** Complete and validated  
-**Code Quality:** Production-ready with comprehensive documentation  
-**Reproducibility:** Fully deterministic; all parameters specified  
-**Publication Readiness:** Figures and results suitable for academic publication
-
----
 
